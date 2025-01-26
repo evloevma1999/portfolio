@@ -1,0 +1,164 @@
+{
+	"stocks":[
+		{
+			"symbol" : "ABX.TO",
+			"name" : "Barrick Gold Corp",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 23.7,
+			"expected_price": 30.0,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0231
+		},
+		{
+			"symbol" : "K.TO",
+			"name" : "Kinross Gold Corp",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 11.54,
+			"expected_price": 13.0,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0143
+		},
+		{
+			"symbol" : "AEM.TO",
+			"name" : " Agnico-Eagle Mines Ltd",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 102.75,
+			"expected_price": 110.59,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.021
+		},
+		{
+			"symbol" : "FNV.TO",
+			"name" : " Franco-Nevada Corp",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 173.06,
+			"expected_price": 199.90,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0113
+		},
+		{
+			"symbol" : "AGI.TO",
+			"name" : "Alamos Gold Inc",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 23.47,
+			"expected_price": 27.60,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0058
+		},
+		{
+			"symbol" : "BTO.TO",
+			"name" : "B2gold Corp",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 4.02,
+			"expected_price": 5.89,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0527
+		},
+		{
+			"symbol" : "ELD.TO",
+			"name" : "Eldorado Gold Corp",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 22.91,
+			"expected_price": 24.29,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0
+		},
+		{
+			"symbol" : "OR.TO",
+			"name" : "Osisko Gold Royalties Ltd",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 24.84,
+			"expected_price": 27.73,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0096
+		},
+		{
+			"symbol" : "SSL.TO",
+			"name" : "Sandstorm Gold Ltd",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 8.03,
+			"expected_price": 9.75,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0102
+		},
+		{
+			"symbol" : "DPM.TO",
+			"name" : "Dundee Precious Metals Inc",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 11.89,
+			"expected_price": 14.94,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0184
+		},
+		{
+			"symbol" : "TXG.TO",
+			"name" : "Torex Gold Resources Inc",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 22.52,
+			"expected_price": 28.53,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0
+		},
+		{
+			"symbol" : "EDV.TO",
+			"name" : "Endeavour Mining plc",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 31.46,
+			"expected_price": 41.17,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0342
+		},
+		{
+			"symbol" : "PAAS.TO",
+			"name" : "Pan American Silver Corp",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 31.45,
+			"expected_price": 32.29,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0169
+		},
+		{
+			"symbol" : "WPM.TO",
+			"name" : "Wheaton Precious Metals Corp",
+			"currency_code" : "CAD",
+			"industry_code" : "Gold",
+			"current_price": 83.57,
+			"expected_price": 86.43,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0102
+		},
+		{
+			"symbol" : "NEM",
+			"name" : "Newmont Corp",
+			"currency_code" : "USD",
+			"industry_code" : "Gold",
+			"current_price": 47.51,
+			"expected_price": 63.74,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0207
+		},
+		{
+			"symbol" : "RGLD",
+			"name" : "Royal Gold",
+			"currency_code" : "USD",
+			"industry_code" : "Gold",
+			"current_price": 138.67,
+			"expected_price": 155.92,
+			"eligible_divident": 0.0,
+			"none_eligible_divident": 0.0115
+		}
+	]
+}

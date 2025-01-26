@@ -1,0 +1,26 @@
+{
+	"taxes":[
+		{
+			"country_code" : "CA",
+			"province_state_code": null,
+			"capital_gain_tax": 0.1935,
+			"investment_income_tax": 0.387,
+			"capital_gain_tax_credit": 0.5,
+			"eligible_dividend_tax_grossup": 0.38,
+			"eligible_dividend_tax_credit": 0.5455,
+			"none_eligible_dividend_tax_grossup": 0.15,
+			"none_eligible_dividend_tax_credit": 0.6923
+		},
+		{
+			"country_code" : "CA",
+			"province_state_code": "ON",
+			"capital_gain_tax": 0.251,
+			"investment_income_tax": 0.502,
+			"capital_gain_tax_credit": 0.5,
+			"eligible_dividend_tax_grossup": 0.38,
+			"eligible_dividend_tax_credit": 0.5455,
+			"none_eligible_dividend_tax_grossup": 0.15,
+			"none_eligible_dividend_tax_credit": 0.6923
+		}
+	]
+}

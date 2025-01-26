@@ -1,0 +1,124 @@
+{
+	"portfolios":[
+		{
+			"name": "Gold portfolio",
+			"description": "Gold investment portfolio",
+			"country_code" : "CA",
+			"is_small_company": 0,
+			"currency_code": "CAD",
+			"balance": 1000000.0,
+			"portfolio_stocks": [
+				{
+					"symbol": "ABX.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "K.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "AEM.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "FNV.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "AGI.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "BTO.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "EDV.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				}
+			]
+		},
+		{
+			"name": "Big Gold portfolio",
+			"description": "Big Gold investment portfolio",
+			"country_code" : "CA",
+			"is_small_company": 0,
+			"currency_code": "CAD",
+			"balance": 1000000.0,
+			"portfolio_stocks": [
+				{
+					"symbol": "ABX.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "K.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "AEM.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "FNV.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "AGI.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "BTO.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "EDV.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "OR.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "SSL.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "DPM.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "TXG.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "EDV.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				},
+				{
+					"symbol": "PAAS.TO",
+					"min_allocation": 10000.0,
+					"max_allocation": 300000.0
+				}
+			]
+		}
+	]
+}
